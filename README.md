@@ -1,7 +1,7 @@
 Pre-Launch page for [Fosterous.com](http://fosterous.com)
 ---
 
-![alt text](hhttps://raw.githubusercontent.com/mfwarren/FosterousPreLaunch/master/images/fosterous_med.png "Fosterous Logo")
+![alt text](https://raw.githubusercontent.com/mfwarren/FosterousPreLaunch/master/images/fosterous_med.png "Fosterous Logo")
 
 
 Template Credits:
